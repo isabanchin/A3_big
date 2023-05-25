@@ -26,11 +26,9 @@ header {
 	text-decoration: none;
 	color: #E0E0E0;
 }
-
 .nav a:hover {
     background-color: #FF3F40;
 }
-
 .intro {
 	display: flex;
 	justify-content: top;
